@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Veera Naga Sanath Yalagandula 👋
 
-<!--
-**sanathyalagandula/sanathyalagandula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Software Developer with expertise in **Mainframe applications & MERN Stack**.
+- 🎓 Pursuing a **Master’s in Data Analytics** with a strong background in **Data Structures, Algorithms, and System Design**.
+- 🛠 Passionate about **Full Stack Development, Data Analytics, and Cloud Technologies**.
+- 📍 Open to **full-time Software Developer opportunities**.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** JavaScript (ES6+), Python, Java, C++, SQL
+- **Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind
+- **Backend:** Node.js, Express.js, Java (Spring Boot)
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **DevOps & Tools:** Docker, Git, GitHub Actions, AWS (EC2, S3)
+- **Other:** Agile, Scrum, CI/CD, OOP, Design Patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Notable Projects
+🚀 **[Project Name 1](GitHub_Link)** - Brief description (Tech Stack Used)  
+📊 **[Project Name 2](GitHub_Link)** - Brief description (Tech Stack Used)  
+🌐 **[Portfolio Website (if any)](YourWebsiteLink)**
+
+## 📈 GitHub Stats
+![Sanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
+
